@@ -1,0 +1,19 @@
+/*
+app variables
+*/
+
+:root {
+  --main-font: 'Orbitron', sans-serif;
+  /* font colors */
+  --display-text-color: #23e000;
+ 
+  /* font sizes */
+  --display-text-size: 4em;
+}
+
+body,
+div,
+p {
+  margin: 0;
+  padding: 0;
+}

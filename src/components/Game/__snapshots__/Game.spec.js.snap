@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game should render correctly 1`] = `
+<div>
+  <h1>
+    Game of Life
+  </h1>
+  <Board
+    boardRef={[Function]}
+    cellSize={20}
+    cells={Array []}
+    handleSingleClick={[Function]}
+    height={300}
+    width={800}
+  />
+  <Controller
+    clearCells={[Function]}
+    generateRandomBoard={[Function]}
+    isGameRunning={false}
+    playGame={[Function]}
+    stopGame={[Function]}
+  />
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controller should render correctly 1`] = `
+<div
+  className="controls"
+>
+  <button
+    className="button"
+    onClick={[MockFunction]}
+  >
+    Play
+  </button>
+  <button
+    className="button"
+    onClick={[MockFunction]}
+  >
+    Random
+  </button>
+  <button
+    className="button"
+    onClick={[MockFunction]}
+  >
+    Clear
+  </button>
+</div>
+`;

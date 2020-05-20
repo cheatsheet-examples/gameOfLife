@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board should render correctly 1`] = `
+<div
+  className="Board"
+  onClick={[MockFunction]}
+  style={
+    Object {
+      "backgroundSize": "20px 20px",
+      "height": 800,
+      "width": 600,
+    }
+  }
+/>
+`;

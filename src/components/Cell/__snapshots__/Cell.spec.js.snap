@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell should render correctly 1`] = `
+<div
+  className="Cell"
+  style={
+    Object {
+      "height": "19px",
+      "left": "181px",
+      "top": "301px",
+      "width": "19px",
+    }
+  }
+/>
+`;
